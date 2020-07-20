@@ -1,0 +1,16 @@
+{
+  "name": "light-slug-emoji",
+  "version": "1.0.0",
+  "description": "Make a better slug from string. This package can replace any emoji or converted to custom string.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "slug",
+    "url",
+    "uri"
+  ],
+  "author": "bbnomercy",
+  "license": "MIT"
+}
