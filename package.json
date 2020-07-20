@@ -1,6 +1,6 @@
 {
   "name": "light-slug-emoji",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Make a better slug from string. This package can replace any emoji or converted to custom string.",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,7 @@
   "author": "bbnomercy",
   "license": "MIT",
   "dependencies": {
-    "light-slug-emoji": "^1.0.0"
+    "light-slug-emoji": "^1.0.1"
   },
   "devDependencies": {},
   "repository": {
