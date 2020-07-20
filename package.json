@@ -12,5 +12,17 @@
     "uri"
   ],
   "author": "bbnomercy",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "light-slug-emoji": "^1.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bbnomercy/light-slug-emoji.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bbnomercy/light-slug-emoji/issues"
+  },
+  "homepage": "https://github.com/bbnomercy/light-slug-emoji#readme"
 }
